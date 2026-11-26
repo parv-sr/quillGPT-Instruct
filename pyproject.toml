@@ -1,0 +1,11 @@
+[project]
+name = "quillinstruct"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.5",
+    "pyarrow>=26.0.1",
+    "safetensors>=0.8.0",
+    "tokenizers>=0.23.3",
+    "tqdm>=4.70.1",
+]
